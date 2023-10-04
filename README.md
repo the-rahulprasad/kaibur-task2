@@ -21,6 +21,7 @@ Change default port value in application.properties
 ![frontend](frontend_swagger.gif)
 
 ## OpenAPI code
+```yaml
 openapi: 3.0.0
 info:
   title: Java REST API example.
@@ -108,3 +109,4 @@ components:
           type: string
         framework:
           type: string
+```
